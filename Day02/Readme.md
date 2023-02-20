@@ -1,2 +1,2 @@
-Programa que cria um nome para sua banda:<br><br>
+Programa que cria uma Calculadora de Gorjetas:<br><br>
 <img src="Imagens/Desafio.PNG" alt="Desafio">
