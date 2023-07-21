@@ -1,3 +1,6 @@
+Challenge Day06 - Desenvolver um código capaz de resolver os 4 problemas do labirinto do rôbo:<br><br>
+<img src="Exercícios/ChallengeDay06.gif" alt="Ex01"><br><br>
+
 Exercício 01 - Desenhar um quadrado com o rôbo:<br><br>
 <img src="Exercícios/Desenhar_quadrado_robo_1.gif" alt="Ex01"><br><br>
 
